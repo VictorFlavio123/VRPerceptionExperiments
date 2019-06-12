@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MiniCamera
+  - RadialMenu
+  - Canvas
+  - OptionMenu
+  - Agent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - ActivateMenu
+  - MenuOptions
+  - MeanSpeed
+  - Collectivity
+  - SocializationVsIsolation
+  - Emotion
+  - NameID
+  - ImageBackgroundOption
+  - VRCanvas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ActivateMenu
+    uniqueID: 3677541347
+    locked: 0
+  - name: MenuOptions
+    uniqueID: 1383959741
+    locked: 0
+  - name: MeanSpeed
+    uniqueID: 3451469395
+    locked: 0
+  - name: Collectivity
+    uniqueID: 1865701175
+    locked: 0
+  - name: SocializationVsIsolation
+    uniqueID: 3785964469
+    locked: 0
+  - name: Emotion
+    uniqueID: 3892095613
+    locked: 0
+  - name: NameID
+    uniqueID: 94083205
+    locked: 0

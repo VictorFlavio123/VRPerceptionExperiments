@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.firstpersonvisualization.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Avell\\Desktop\\VRPerceptionExperiments-master\\firstvisuWithVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "First Person Visualization [Testing]"
+        }
+      }
+    }
+  ]
+}
